@@ -1,2 +1,7 @@
-# Wicked_Problems
-Wicked Problems Fall 2021 (Data 100)
+# Jake Podgurski
+
+A little infographic about me!
+
+## Here's me golfing
+
+![](Jake_Golf.jpg)
