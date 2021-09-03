@@ -12,4 +12,4 @@ A little infographic about me!
 
 #### Here's a picture of my dog, Bexley
 
-![](IMG_0323.jpg)
+![](IMG_0323.JPG)
