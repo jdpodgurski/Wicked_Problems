@@ -19,14 +19,6 @@ Some fun facts about me:
 
 ● My favorite chip/snack is Hint of Lime tortilla chips
 
-## Here's me golfing
-
-![](Jake_Golf.jpg)
-
-### Here's a more recent picture of me
+### Here's a picture of me
 
 ![](Jake.jpg)
-
-#### Here's a picture of my dog, Bexley
-
-![](IMG_0323.JPG)
