@@ -8,10 +8,7 @@ Year: Freshman
 
 Intended Major: Computer Science & Data Science
 
-
-Some fun facts about me:
-
-● Hobbies: hiking, biking, baseball, bowling, card games, video games
+Hobbies: hiking, biking, baseball, bowling, card games, video games
 
 ### Here's a picture of me
 
