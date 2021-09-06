@@ -1,6 +1,6 @@
 # Jake Podgurski
 
-A little infographic about me!
+A little info about me!
 
 From: Columbus, Ohio
 
