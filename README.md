@@ -1,6 +1,6 @@
 # Projects
 
-![](A Person's Path Between Homes.png)
+![](Project1.png)
 
 ## Introduction
 
