@@ -1,6 +1,6 @@
 # Projects
 
-![alt text](https://github.com/jdpodgurski/Wicked_Problems/blob/main/Project1.png)
+[Getting Started with R & R Studio](https://github.com/jdpodgurski/Wicked_Problems/blob/main/Project1.png)
 
 ## Introduction
 
