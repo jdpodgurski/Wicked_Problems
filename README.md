@@ -1,6 +1,6 @@
 # Projects
 
-![Getting Started with R & R Studio](A Person's Path Between Homes.png)
+![](A Person's Path Between Homes.png)
 
 ## Introduction
 
