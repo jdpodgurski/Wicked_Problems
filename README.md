@@ -12,4 +12,4 @@ Hobbies: hiking, biking, baseball, bowling, card games, video games
 
 ### Here's a picture of me
 
-![](Jake.jpg)
+![](<img src="drawing.jpg" alt="drawing" width="200"/>)
