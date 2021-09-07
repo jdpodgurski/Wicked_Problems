@@ -1,6 +1,6 @@
 # Projects
 
-![a](Project1.png)
+![alt text](Project1.png)
 
 ## Introduction
 
