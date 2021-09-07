@@ -1,6 +1,6 @@
 # Projects
 
-![](Project1.png)
+![a](Project1.png)
 
 ## Introduction
 
