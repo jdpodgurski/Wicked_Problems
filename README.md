@@ -1,6 +1,6 @@
 # Projects
 
-![alt text](Project1.png)
+![alt text](https://github.com/jdpodgurski/Wicked_Problems/blob/main/Project1.png)
 
 ## Introduction
 
